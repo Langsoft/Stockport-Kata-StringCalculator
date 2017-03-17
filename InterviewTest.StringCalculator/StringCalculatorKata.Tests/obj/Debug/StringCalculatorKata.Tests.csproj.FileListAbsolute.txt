@@ -1,0 +1,45 @@
+C:\Users\jonathan.hadley\Source\Repos\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.dll
+C:\Users\jonathan.hadley\Source\Repos\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.pdb
+C:\Users\jonathan.hadley\Source\Repos\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\nunit.framework.dll
+C:\Users\jonathan.hadley\Source\Repos\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.App.exe
+C:\Users\jonathan.hadley\Source\Repos\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.App.pdb
+C:\Users\jonathan.hadley\Source\Repos\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\nunit.framework.xml
+C:\Users\jonathan.hadley\Source\Repos\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jonathan.hadley\Source\Repos\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.dll
+C:\Users\jonathan.hadley\Source\Repos\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.pdb
+C:\Code\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.dll
+C:\Code\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.pdb
+C:\Code\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\nunit.framework.dll
+C:\Code\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.App.exe
+C:\Code\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.App.pdb
+C:\Code\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\nunit.framework.xml
+C:\Code\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.csprojResolveAssemblyReference.cache
+C:\Code\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.dll
+C:\Code\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.pdb
+C:\Users\jonathan.hadley\Desktop\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.dll
+C:\Users\jonathan.hadley\Desktop\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.pdb
+C:\Users\jonathan.hadley\Desktop\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\nunit.framework.dll
+C:\Users\jonathan.hadley\Desktop\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.App.exe
+C:\Users\jonathan.hadley\Desktop\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.App.pdb
+C:\Users\jonathan.hadley\Desktop\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\nunit.framework.xml
+C:\Users\jonathan.hadley\Desktop\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jonathan.hadley\Desktop\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.dll
+C:\Users\jonathan.hadley\Desktop\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.pdb
+C:\Users\jonathan.hadley\Desktop\Interview Resources\S02\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.dll
+C:\Users\jonathan.hadley\Desktop\Interview Resources\S02\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.pdb
+C:\Users\jonathan.hadley\Desktop\Interview Resources\S02\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\nunit.framework.dll
+C:\Users\jonathan.hadley\Desktop\Interview Resources\S02\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\nunit.framework.xml
+C:\Users\jonathan.hadley\Desktop\Interview Resources\S02\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jonathan.hadley\Desktop\Interview Resources\S02\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.dll
+C:\Users\jonathan.hadley\Desktop\Interview Resources\S02\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.pdb
+C:\Users\jonathan.hadley\Desktop\Interview Resources\S02\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorCore.dll
+C:\Users\jonathan.hadley\Desktop\Interview Resources\S02\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorCore.pdb
+D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.csprojResolveAssemblyReference.cache
+D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.dll
+D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.pdb
+D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.dll
+D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.pdb
+D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\nunit.framework.dll
+D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\nunit.framework.xml
+D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorCore.dll
+D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorCore.pdb

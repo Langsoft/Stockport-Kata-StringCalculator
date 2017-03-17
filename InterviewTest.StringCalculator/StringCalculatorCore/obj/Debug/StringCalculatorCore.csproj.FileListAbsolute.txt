@@ -1,0 +1,12 @@
+C:\Users\jonathan.hadley\Desktop\Interview Resources\S02\InterviewTest.StringCalculator\StringCalculatorCore\bin\Debug\StringCalculatorCore.dll
+C:\Users\jonathan.hadley\Desktop\Interview Resources\S02\InterviewTest.StringCalculator\StringCalculatorCore\bin\Debug\StringCalculatorCore.pdb
+C:\Users\jonathan.hadley\Desktop\Interview Resources\S02\InterviewTest.StringCalculator\StringCalculatorCore\obj\Debug\StringCalculatorCore.csprojResolveAssemblyReference.cache
+C:\Users\jonathan.hadley\Desktop\Interview Resources\S02\InterviewTest.StringCalculator\StringCalculatorCore\obj\Debug\StringCalculatorCore.dll
+C:\Users\jonathan.hadley\Desktop\Interview Resources\S02\InterviewTest.StringCalculator\StringCalculatorCore\obj\Debug\StringCalculatorCore.pdb
+D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorCore\bin\Debug\StringCalculatorCore.dll
+D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorCore\bin\Debug\StringCalculatorCore.pdb
+D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorCore\obj\Debug\StringCalculatorCore.csprojResolveAssemblyReference.cache
+D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorCore\obj\Debug\StringCalculatorCore.dll
+D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorCore\obj\Debug\StringCalculatorCore.pdb
+D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorCore\bin\Debug\nunit.framework.dll
+D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorCore\bin\Debug\nunit.framework.xml
