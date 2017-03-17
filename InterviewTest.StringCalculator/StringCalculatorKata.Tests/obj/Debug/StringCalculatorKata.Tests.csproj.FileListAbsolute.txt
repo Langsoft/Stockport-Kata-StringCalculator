@@ -43,3 +43,12 @@ D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorKata.
 D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\nunit.framework.xml
 D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorCore.dll
 D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorCore.pdb
+D:\GIT\Stockport-Kata-StringCalculator\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.dll
+D:\GIT\Stockport-Kata-StringCalculator\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.pdb
+D:\GIT\Stockport-Kata-StringCalculator\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\nunit.framework.dll
+D:\GIT\Stockport-Kata-StringCalculator\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorCore.dll
+D:\GIT\Stockport-Kata-StringCalculator\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\StringCalculatorCore.pdb
+D:\GIT\Stockport-Kata-StringCalculator\InterviewTest.StringCalculator\StringCalculatorKata.Tests\bin\Debug\nunit.framework.xml
+D:\GIT\Stockport-Kata-StringCalculator\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.csprojResolveAssemblyReference.cache
+D:\GIT\Stockport-Kata-StringCalculator\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.dll
+D:\GIT\Stockport-Kata-StringCalculator\InterviewTest.StringCalculator\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.pdb

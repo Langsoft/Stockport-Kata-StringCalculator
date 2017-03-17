@@ -10,3 +10,10 @@ D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorCore\
 D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorCore\obj\Debug\StringCalculatorCore.pdb
 D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorCore\bin\Debug\nunit.framework.dll
 D:\Stockport Interview Kata\InterviewTest.StringCalculator\StringCalculatorCore\bin\Debug\nunit.framework.xml
+D:\GIT\Stockport-Kata-StringCalculator\InterviewTest.StringCalculator\StringCalculatorCore\bin\Debug\StringCalculatorCore.dll
+D:\GIT\Stockport-Kata-StringCalculator\InterviewTest.StringCalculator\StringCalculatorCore\bin\Debug\StringCalculatorCore.pdb
+D:\GIT\Stockport-Kata-StringCalculator\InterviewTest.StringCalculator\StringCalculatorCore\bin\Debug\nunit.framework.dll
+D:\GIT\Stockport-Kata-StringCalculator\InterviewTest.StringCalculator\StringCalculatorCore\bin\Debug\nunit.framework.xml
+D:\GIT\Stockport-Kata-StringCalculator\InterviewTest.StringCalculator\StringCalculatorCore\obj\Debug\StringCalculatorCore.dll
+D:\GIT\Stockport-Kata-StringCalculator\InterviewTest.StringCalculator\StringCalculatorCore\obj\Debug\StringCalculatorCore.pdb
+D:\GIT\Stockport-Kata-StringCalculator\InterviewTest.StringCalculator\StringCalculatorCore\obj\Debug\StringCalculatorCore.csprojResolveAssemblyReference.cache
